@@ -610,7 +610,7 @@ body.menu-open .top-scroll-nav-project .menu-icon {
 
 
 /*  Back To Top Style  */
-@media screen and (min-width: 600px){
+
 .cd-top {
   display: inline-block;
   height: 40px;
@@ -663,5 +663,4 @@ body.menu-open .top-scroll-nav-project .menu-icon {
     right: 30px;
     bottom: 30px;
   }
-}
 }
